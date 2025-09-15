@@ -60,4 +60,4 @@ The dataset includes Spotify tracks with features such as:
 ## 📝 How to Run
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/spotify-song-recommendation.git
+   git clone https://github.com/yaswanthaddula/spotify-song-recommendation
